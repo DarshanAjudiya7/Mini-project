@@ -7,19 +7,6 @@ Welcome to the **Restaurant Website** project! This is a sleek and responsive we
 
 ---
 
-## 📌 Table of Contents
-
-* [Features](#features)
-* [Demo](#demo)
-* [Installation](#installation)
-* [Usage](#usage)
-* [Technologies Used](#technologies-used)
-* [Contributing](#contributing)
-* [License](#license)
-* [Contact](#contact)
-
----
-
 ## ✨ Features
 
 * **Responsive Design**: Optimized for all devices.
