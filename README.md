@@ -17,7 +17,7 @@ Welcome to the **Restaurant Website** project! This is a sleek and responsive we
 
 ## 🚀 Demo
 
-Experience the live version here: [Live Demo](https://your-live-demo-link.com)
+Experience the live version here: [Live Demo](https://cute-granita-99ce6d.netlify.app/)
 
 ---
 
