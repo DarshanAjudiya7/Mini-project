@@ -3,8 +3,6 @@
 
 Welcome to the **Restaurant Website** project! This is a sleek and responsive website designed for a fictional restaurant, showcasing menu items, special offers, and contact information. Built with modern web technologies to provide an engaging user experience.
 
-![Project Screenshot](https://your-image-link.com/screenshot.png)
-
 ---
 
 ## ✨ Features
