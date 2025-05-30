@@ -1,138 +1,121 @@
 
-# 🚀 **Mini Project** 
+# 🍽️ Mini Project: Restaurant Website
 
-Welcome to the **Mini Project** repository! This is a simple and elegant restaurant website built using **HTML** and **CSS**. It aims to provide a responsive and visually appealing user interface for a restaurant business.
+Welcome to the **Restaurant Website** project! This is a sleek and responsive website designed for a fictional restaurant, showcasing menu items, special offers, and contact information. Built with modern web technologies to provide an engaging user experience.
 
----
-
-## 📋 **Table of Contents**
-
-- [📖 Introduction](#introduction)
-- [💻 Project Structure](#project-structure)
-- [🚀 Features](#features)
-- [🛠️ Technologies Used](#technologies-used)
-- [📸 Screenshots](#screenshots)
-- [⚙️ Installation](#installation)
-- [🤝 Contribution](#contribution)
-- [📄 License](#license)
-- [⭐ Support This Project](#support-this-project)
+![Project Screenshot](https://your-image-link.com/screenshot.png)
 
 ---
 
-## 📖 **Introduction**
+## 📌 Table of Contents
 
-This **Mini Project** showcases a basic **restaurant website** with modern web design practices. The goal of this project is to create a user-friendly, responsive, and visually appealing interface for a restaurant using simple web technologies such as HTML and CSS.
-
----
-
-## 💻 **Project Structure**
-
-```plaintext
-Mini-project/
-├── index.html          # The main webpage of the restaurant
-├── styles.css          # Stylesheet to design the webpage
-├── images/             # Folder containing images used in the project
-│   └── logo.png        # Logo image
-└── README.md           # Project documentation
-
+* [Features](#features)
+* [Demo](#demo)
+* [Installation](#installation)
+* [Usage](#usage)
+* [Technologies Used](#technologies-used)
+* [Contributing](#contributing)
+* [License](#license)
+* [Contact](#contact)
 
 ---
 
-🚀 Features
+## ✨ Features
 
-🌟 Responsive Design: Mobile-friendly layout that adapts to all screen sizes.
-
-🗂️ Navigation Bar: Easy-to-use navigation to quickly access Home, Menu, About, and Contact sections.
-
-📸 Image Gallery: Displays images of the restaurant’s ambiance and delicious dishes.
-
-📞 Footer: Contains contact information and social media links.
-
-🖼️ Custom Logo: Personalized branding with a logo image.
-
-
+* **Responsive Design**: Optimized for all devices.
+* **Interactive Menu**: Dynamic display of food items.
+* **Contact Form**: Users can reach out directly.
+* **Gallery Section**: Showcase of restaurant ambiance.
+* **Location Map**: Integrated Google Maps for easy navigation.
 
 ---
 
-🛠️ Technologies Used
+## 🚀 Demo
 
-HTML5: Structure and content of the website.
-
-CSS3: Styling and layout of the website.
-
-Responsive Design: Ensures the website looks great on mobile devices and desktops.
-
-
+Experience the live version here: [Live Demo](https://your-live-demo-link.com)
 
 ---
 
-📸 Screenshots
+## 🛠️ Installation
 
-Here are some screenshots of the restaurant website:
+To run this project locally:
 
- Homepage with a clean and user-friendly design.
+1. **Clone the repository:**
 
- Menu page showcasing the restaurant’s offerings.
+   ```bash
+   git clone https://github.com/DarshanAjudiya7/Mini-project.git
+   ```
 
+2. **Navigate to the project directory:**
 
----
+   ```bash
+   cd Mini-project
+   ```
 
-⚙️ Installation
+3. **Extract the ZIP file:**
 
-To get started with this project:
+   * Locate `Restaurant Website.zip` and extract its contents.
 
-1. Clone this repository to your local machine:
+4. **Open in Browser:**
 
-git clone https://github.com/DarshanAjudiya7/Mini-project.git
-
-
-2. Open the index.html file in your browser.
-
-
-
-
----
-
-🤝 Contribution
-
-We welcome contributions to this project! If you want to improve the website, follow the steps below:
-
-Fork the repository
-
-Create a new branch (git checkout -b feature-name)
-
-Commit your changes (git commit -am 'Add new feature')
-
-Push to the branch (git push origin feature-name)
-
-Open a pull request
-
-
-📋 Contribution Checklist
-
-[ ] Fork the repository
-
-[ ] Clone your fork to your local machine
-
-[ ] Create a new branch for your feature
-
-[ ] Write clear and descriptive commit messages
-
-[ ] Ensure your changes are properly tested
-
-[ ] Submit a pull request
-
-
+   * Open `index.html` in your preferred web browser.
 
 ---
 
-📄 License
+## 💡 Usage
 
-This project is licensed under the MIT License.
-
+* Navigate through different sections using the navbar.
+* View the menu to explore available dishes.
+* Use the contact form to send messages.
+* Check the gallery for restaurant images.
+* Locate the restaurant using the embedded map.
 
 ---
 
-⭐ Support This Project
+## 🧰 Technologies Used
 
-If you like this project, feel free to ⭐️ the repository! This helps us reach more people who can benefit from it. Your support means a lot!
+* **HTML5**: Structure of the web pages.
+* **CSS3**: Styling and layout.
+* **JavaScript**: Interactive elements.
+* **Google Maps API**: Embedding location maps.
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome! If you have suggestions or improvements:
+
+1. Fork the repository.
+2. Create a new branch:
+
+   ```bash
+   git checkout -b feature/YourFeature
+   ```
+3. Commit your changes:
+
+   ```bash
+   git commit -m 'Add YourFeature'
+   ```
+4. Push to the branch:
+
+   ```bash
+   git push origin feature/YourFeature
+   ```
+5. Open a Pull Request.
+
+---
+
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE).
+
+---
+
+## 📬 Contact
+
+For any inquiries or feedback:
+
+* **Email**: [darshanajudiya07@gmail.com](mailto:darshanajudiya07@gmail.com)
+* **LinkedIn**: [Darshan Ajudiya](https://www.linkedin.com/in/darshan-ajudiya-a5b301310/)
+* **Twitter**: [@AjudiyaDarshan7](https://x.com/AjudiyaDarshan7)
+* **GitHub**: [DarshanAjudiya7](https://github.com/DarshanAjudiya7)
